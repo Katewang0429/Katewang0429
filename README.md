@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kate
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me ...
 
 <!---
